@@ -1,2 +1,1 @@
-# Formulationprotein
-Formulationprotein code for review.
+# EGNN Formulation
